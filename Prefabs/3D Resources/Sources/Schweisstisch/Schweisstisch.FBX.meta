@@ -1,0 +1,1619 @@
+fileFormatVersion: 2
+guid: a767c8636a57ea94ba195c85f4bb2606
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: system kastl 01
+  - first:
+      1: 100002
+    second: kastl blech 03
+  - first:
+      1: 100004
+    second: blech kastl 02
+  - first:
+      1: 100006
+    second: blech kastl 01
+  - first:
+      1: 100008
+    second: system 25
+  - first:
+      1: 100010
+    second: system 24
+  - first:
+      1: 100012
+    second: system 23
+  - first:
+      1: 100014
+    second: system 22
+  - first:
+      1: 100016
+    second: system 21
+  - first:
+      1: 100018
+    second: system 20
+  - first:
+      1: 100020
+    second: glas
+  - first:
+      1: 100022
+    second: schweissrost rahmen 8
+  - first:
+      1: 100024
+    second: schweissrost rahmen 1
+  - first:
+      1: 100026
+    second: entl__ftung rot
+  - first:
+      1: 100028
+    second: Lueftung
+  - first:
+      1: 100030
+    second: rahmen
+  - first:
+      1: 100032
+    second: schweissrost t-stahl 10
+  - first:
+      1: 100034
+    second: schweissrost rahmen 2
+  - first:
+      1: 100036
+    second: schweissrost rahmen 7
+  - first:
+      1: 100038
+    second: tischplatte
+  - first:
+      1: 100040
+    second: schweissrost t-stahl 5
+  - first:
+      1: 100042
+    second: schweissrost t-stahl 6
+  - first:
+      1: 100044
+    second: schweissrost t-stahl 7
+  - first:
+      1: 100046
+    second: schweissrost rahmen 3
+  - first:
+      1: 100048
+    second: schweissrost rahmen 4
+  - first:
+      1: 100050
+    second: Blende
+  - first:
+      1: 100052
+    second: system 02
+  - first:
+      1: 100054
+    second: blech 10
+  - first:
+      1: 100056
+    second: blech 09
+  - first:
+      1: 100058
+    second: blech kastl 06
+  - first:
+      1: 100060
+    second: blech kastl 05
+  - first:
+      1: 100062
+    second: blech kastl 04
+  - first:
+      1: 100064
+    second: system kastl 03
+  - first:
+      1: 100066
+    second: system kastl 02
+  - first:
+      1: 100068
+    second: halterung werkst__ck vertikal 02
+  - first:
+      1: 100070
+    second: schweissrost t-stahl 3
+  - first:
+      1: 100072
+    second: Schwei__rost
+  - first:
+      1: 100074
+    second: blech 05
+  - first:
+      1: 100076
+    second: system 19
+  - first:
+      1: 100078
+    second: winkeleisen 01
+  - first:
+      1: 100080
+    second: system 18
+  - first:
+      1: 100082
+    second: t__r 01
+  - first:
+      1: 100084
+    second: blech lade 01
+  - first:
+      1: 100086
+    second: system 17
+  - first:
+      1: 100088
+    second: system 16
+  - first:
+      1: 100090
+    second: system 15
+  - first:
+      1: 100092
+    second: system 14
+  - first:
+      1: 100094
+    second: blech 02
+  - first:
+      1: 100096
+    second: schweissrost t-stahl 4
+  - first:
+      1: 100098
+    second: panel kastl 01
+  - first:
+      1: 100100
+    second: st__nder 01
+  - first:
+      1: 100102
+    second: schweissrost rahmen 6
+  - first:
+      1: 100104
+    second: schweissrost t-stahl 2
+  - first:
+      1: 100106
+    second: //RootNode
+  - first:
+      1: 100108
+    second: system 03
+  - first:
+      1: 100110
+    second: blech 01
+  - first:
+      1: 100112
+    second: verkleidung 01
+  - first:
+      1: 100114
+    second: system 13
+  - first:
+      1: 100116
+    second: system 12
+  - first:
+      1: 100118
+    second: system 11
+  - first:
+      1: 100120
+    second: system 10
+  - first:
+      1: 100122
+    second: sauger
+  - first:
+      1: 100124
+    second: system 09
+  - first:
+      1: 100126
+    second: system 08
+  - first:
+      1: 100128
+    second: system 07
+  - first:
+      1: 100130
+    second: system 06
+  - first:
+      1: 100132
+    second: system 05
+  - first:
+      1: 100134
+    second: system 04
+  - first:
+      1: 100136
+    second: system 01
+  - first:
+      1: 100138
+    second: lade
+  - first:
+      1: 100140
+    second: blech kastl 07
+  - first:
+      1: 100142
+    second: Corpus
+  - first:
+      1: 100144
+    second: PlatteKupfer
+  - first:
+      1: 100146
+    second: schweissrost rahmen 5
+  - first:
+      1: 100148
+    second: schweissrost t-stahl 8
+  - first:
+      1: 100150
+    second: schweissrost t-stahl 9
+  - first:
+      1: 100152
+    second: schweissrost t-stahl 1
+  - first:
+      1: 100154
+    second: entl__ftung grau
+  - first:
+      1: 100156
+    second: halterung werkst__ck temp 02
+  - first:
+      1: 100158
+    second: halterung werkst__ck vertikal
+  - first:
+      1: 100160
+    second: WerstueckhalterSteher
+  - first:
+      1: 100162
+    second: halterung werkst__ck temp 01
+  - first:
+      1: 100164
+    second: halterung werkst__ck temp 04
+  - first:
+      1: 100166
+    second: halterung werkst__ck temp 03
+  - first:
+      1: 100168
+    second: WerkstueckhalterArm
+  - first:
+      1: 100170
+    second: Werkstueckhalter
+  - first:
+      1: 100172
+    second: lade aufsatzTEMP
+  - first:
+      1: 100174
+    second: lade frontblende
+  - first:
+      1: 100176
+    second: tschplatte schrauben
+  - first:
+      1: 100178
+    second: platte stromquelle
+  - first:
+      1: 100180
+    second: schiene sichtschutz 02
+  - first:
+      1: 100182
+    second: schiene sichtschutz 01
+  - first:
+      1: 100184
+    second: tischplatte rahmen
+  - first:
+      1: 100186
+    second: "entl\xFCftung grau"
+  - first:
+      1: 100188
+    second: "entl\xFCftung rot"
+  - first:
+      1: 100190
+    second: "halterung werkst\xFCck temp 01"
+  - first:
+      1: 100192
+    second: "halterung werkst\xFCck temp 02"
+  - first:
+      1: 100194
+    second: "halterung werkst\xFCck temp 03"
+  - first:
+      1: 100196
+    second: "halterung werkst\xFCck temp 04"
+  - first:
+      1: 100198
+    second: "halterung werkst\xFCck vertikal"
+  - first:
+      1: 100200
+    second: "halterung werkst\xFCck vertikal 02"
+  - first:
+      1: 100202
+    second: "Schwei\xDFrost"
+  - first:
+      1: 100204
+    second: "st\xE4nder 01"
+  - first:
+      1: 100206
+    second: "t\xFCr 01"
+  - first:
+      4: 400000
+    second: system kastl 01
+  - first:
+      4: 400002
+    second: kastl blech 03
+  - first:
+      4: 400004
+    second: blech kastl 02
+  - first:
+      4: 400006
+    second: blech kastl 01
+  - first:
+      4: 400008
+    second: system 25
+  - first:
+      4: 400010
+    second: system 24
+  - first:
+      4: 400012
+    second: system 23
+  - first:
+      4: 400014
+    second: system 22
+  - first:
+      4: 400016
+    second: system 21
+  - first:
+      4: 400018
+    second: system 20
+  - first:
+      4: 400020
+    second: glas
+  - first:
+      4: 400022
+    second: schweissrost rahmen 8
+  - first:
+      4: 400024
+    second: schweissrost rahmen 1
+  - first:
+      4: 400026
+    second: entl__ftung rot
+  - first:
+      4: 400028
+    second: Lueftung
+  - first:
+      4: 400030
+    second: rahmen
+  - first:
+      4: 400032
+    second: schweissrost t-stahl 10
+  - first:
+      4: 400034
+    second: schweissrost rahmen 2
+  - first:
+      4: 400036
+    second: schweissrost rahmen 7
+  - first:
+      4: 400038
+    second: tischplatte
+  - first:
+      4: 400040
+    second: schweissrost t-stahl 5
+  - first:
+      4: 400042
+    second: schweissrost t-stahl 6
+  - first:
+      4: 400044
+    second: schweissrost t-stahl 7
+  - first:
+      4: 400046
+    second: schweissrost rahmen 3
+  - first:
+      4: 400048
+    second: schweissrost rahmen 4
+  - first:
+      4: 400050
+    second: Blende
+  - first:
+      4: 400052
+    second: system 02
+  - first:
+      4: 400054
+    second: blech 10
+  - first:
+      4: 400056
+    second: blech 09
+  - first:
+      4: 400058
+    second: blech kastl 06
+  - first:
+      4: 400060
+    second: blech kastl 05
+  - first:
+      4: 400062
+    second: blech kastl 04
+  - first:
+      4: 400064
+    second: system kastl 03
+  - first:
+      4: 400066
+    second: system kastl 02
+  - first:
+      4: 400068
+    second: halterung werkst__ck vertikal 02
+  - first:
+      4: 400070
+    second: schweissrost t-stahl 3
+  - first:
+      4: 400072
+    second: Schwei__rost
+  - first:
+      4: 400074
+    second: blech 05
+  - first:
+      4: 400076
+    second: system 19
+  - first:
+      4: 400078
+    second: winkeleisen 01
+  - first:
+      4: 400080
+    second: system 18
+  - first:
+      4: 400082
+    second: t__r 01
+  - first:
+      4: 400084
+    second: blech lade 01
+  - first:
+      4: 400086
+    second: system 17
+  - first:
+      4: 400088
+    second: system 16
+  - first:
+      4: 400090
+    second: system 15
+  - first:
+      4: 400092
+    second: system 14
+  - first:
+      4: 400094
+    second: blech 02
+  - first:
+      4: 400096
+    second: schweissrost t-stahl 4
+  - first:
+      4: 400098
+    second: panel kastl 01
+  - first:
+      4: 400100
+    second: st__nder 01
+  - first:
+      4: 400102
+    second: schweissrost rahmen 6
+  - first:
+      4: 400104
+    second: schweissrost t-stahl 2
+  - first:
+      4: 400106
+    second: //RootNode
+  - first:
+      4: 400108
+    second: system 03
+  - first:
+      4: 400110
+    second: blech 01
+  - first:
+      4: 400112
+    second: verkleidung 01
+  - first:
+      4: 400114
+    second: system 13
+  - first:
+      4: 400116
+    second: system 12
+  - first:
+      4: 400118
+    second: system 11
+  - first:
+      4: 400120
+    second: system 10
+  - first:
+      4: 400122
+    second: sauger
+  - first:
+      4: 400124
+    second: system 09
+  - first:
+      4: 400126
+    second: system 08
+  - first:
+      4: 400128
+    second: system 07
+  - first:
+      4: 400130
+    second: system 06
+  - first:
+      4: 400132
+    second: system 05
+  - first:
+      4: 400134
+    second: system 04
+  - first:
+      4: 400136
+    second: system 01
+  - first:
+      4: 400138
+    second: lade
+  - first:
+      4: 400140
+    second: blech kastl 07
+  - first:
+      4: 400142
+    second: Corpus
+  - first:
+      4: 400144
+    second: PlatteKupfer
+  - first:
+      4: 400146
+    second: schweissrost rahmen 5
+  - first:
+      4: 400148
+    second: schweissrost t-stahl 8
+  - first:
+      4: 400150
+    second: schweissrost t-stahl 9
+  - first:
+      4: 400152
+    second: schweissrost t-stahl 1
+  - first:
+      4: 400154
+    second: entl__ftung grau
+  - first:
+      4: 400156
+    second: halterung werkst__ck temp 02
+  - first:
+      4: 400158
+    second: halterung werkst__ck vertikal
+  - first:
+      4: 400160
+    second: WerstueckhalterSteher
+  - first:
+      4: 400162
+    second: halterung werkst__ck temp 01
+  - first:
+      4: 400164
+    second: halterung werkst__ck temp 04
+  - first:
+      4: 400166
+    second: halterung werkst__ck temp 03
+  - first:
+      4: 400168
+    second: WerkstueckhalterArm
+  - first:
+      4: 400170
+    second: Werkstueckhalter
+  - first:
+      4: 400172
+    second: lade aufsatzTEMP
+  - first:
+      4: 400174
+    second: lade frontblende
+  - first:
+      4: 400176
+    second: tschplatte schrauben
+  - first:
+      4: 400178
+    second: platte stromquelle
+  - first:
+      4: 400180
+    second: schiene sichtschutz 02
+  - first:
+      4: 400182
+    second: schiene sichtschutz 01
+  - first:
+      4: 400184
+    second: tischplatte rahmen
+  - first:
+      4: 400186
+    second: "entl\xFCftung grau"
+  - first:
+      4: 400188
+    second: "entl\xFCftung rot"
+  - first:
+      4: 400190
+    second: "halterung werkst\xFCck temp 01"
+  - first:
+      4: 400192
+    second: "halterung werkst\xFCck temp 02"
+  - first:
+      4: 400194
+    second: "halterung werkst\xFCck temp 03"
+  - first:
+      4: 400196
+    second: "halterung werkst\xFCck temp 04"
+  - first:
+      4: 400198
+    second: "halterung werkst\xFCck vertikal"
+  - first:
+      4: 400200
+    second: "halterung werkst\xFCck vertikal 02"
+  - first:
+      4: 400202
+    second: "Schwei\xDFrost"
+  - first:
+      4: 400204
+    second: "st\xE4nder 01"
+  - first:
+      4: 400206
+    second: "t\xFCr 01"
+  - first:
+      23: 2300000
+    second: system kastl 01
+  - first:
+      23: 2300002
+    second: kastl blech 03
+  - first:
+      23: 2300004
+    second: blech kastl 02
+  - first:
+      23: 2300006
+    second: blech kastl 01
+  - first:
+      23: 2300008
+    second: system 25
+  - first:
+      23: 2300010
+    second: system 24
+  - first:
+      23: 2300012
+    second: system 23
+  - first:
+      23: 2300014
+    second: system 22
+  - first:
+      23: 2300016
+    second: system 21
+  - first:
+      23: 2300018
+    second: system 20
+  - first:
+      23: 2300020
+    second: glas
+  - first:
+      23: 2300022
+    second: schweissrost rahmen 8
+  - first:
+      23: 2300024
+    second: schweissrost rahmen 1
+  - first:
+      23: 2300026
+    second: entl__ftung rot
+  - first:
+      23: 2300028
+    second: rahmen
+  - first:
+      23: 2300030
+    second: schweissrost t-stahl 10
+  - first:
+      23: 2300032
+    second: schweissrost rahmen 2
+  - first:
+      23: 2300034
+    second: schweissrost rahmen 7
+  - first:
+      23: 2300036
+    second: tischplatte
+  - first:
+      23: 2300038
+    second: schweissrost t-stahl 5
+  - first:
+      23: 2300040
+    second: schweissrost t-stahl 6
+  - first:
+      23: 2300042
+    second: schweissrost t-stahl 7
+  - first:
+      23: 2300044
+    second: schweissrost rahmen 3
+  - first:
+      23: 2300046
+    second: schweissrost rahmen 4
+  - first:
+      23: 2300048
+    second: system 02
+  - first:
+      23: 2300050
+    second: blech 10
+  - first:
+      23: 2300052
+    second: blech 09
+  - first:
+      23: 2300054
+    second: blech kastl 06
+  - first:
+      23: 2300056
+    second: blech kastl 05
+  - first:
+      23: 2300058
+    second: blech kastl 04
+  - first:
+      23: 2300060
+    second: system kastl 03
+  - first:
+      23: 2300062
+    second: system kastl 02
+  - first:
+      23: 2300064
+    second: halterung werkst__ck vertikal 02
+  - first:
+      23: 2300066
+    second: schweissrost t-stahl 3
+  - first:
+      23: 2300068
+    second: blech 05
+  - first:
+      23: 2300070
+    second: system 19
+  - first:
+      23: 2300072
+    second: winkeleisen 01
+  - first:
+      23: 2300074
+    second: system 18
+  - first:
+      23: 2300076
+    second: t__r 01
+  - first:
+      23: 2300078
+    second: blech lade 01
+  - first:
+      23: 2300080
+    second: system 17
+  - first:
+      23: 2300082
+    second: system 16
+  - first:
+      23: 2300084
+    second: system 15
+  - first:
+      23: 2300086
+    second: system 14
+  - first:
+      23: 2300088
+    second: blech 02
+  - first:
+      23: 2300090
+    second: schweissrost t-stahl 4
+  - first:
+      23: 2300092
+    second: panel kastl 01
+  - first:
+      23: 2300094
+    second: st__nder 01
+  - first:
+      23: 2300096
+    second: schweissrost rahmen 6
+  - first:
+      23: 2300098
+    second: schweissrost t-stahl 2
+  - first:
+      23: 2300100
+    second: system 03
+  - first:
+      23: 2300102
+    second: blech 01
+  - first:
+      23: 2300104
+    second: verkleidung 01
+  - first:
+      23: 2300106
+    second: system 13
+  - first:
+      23: 2300108
+    second: system 12
+  - first:
+      23: 2300110
+    second: system 11
+  - first:
+      23: 2300112
+    second: system 10
+  - first:
+      23: 2300114
+    second: sauger
+  - first:
+      23: 2300116
+    second: system 09
+  - first:
+      23: 2300118
+    second: system 08
+  - first:
+      23: 2300120
+    second: system 07
+  - first:
+      23: 2300122
+    second: system 06
+  - first:
+      23: 2300124
+    second: system 05
+  - first:
+      23: 2300126
+    second: system 04
+  - first:
+      23: 2300128
+    second: system 01
+  - first:
+      23: 2300130
+    second: lade
+  - first:
+      23: 2300132
+    second: blech kastl 07
+  - first:
+      23: 2300134
+    second: PlatteKupfer
+  - first:
+      23: 2300136
+    second: schweissrost rahmen 5
+  - first:
+      23: 2300138
+    second: schweissrost t-stahl 8
+  - first:
+      23: 2300140
+    second: schweissrost t-stahl 9
+  - first:
+      23: 2300142
+    second: schweissrost t-stahl 1
+  - first:
+      23: 2300144
+    second: entl__ftung grau
+  - first:
+      23: 2300146
+    second: halterung werkst__ck temp 02
+  - first:
+      23: 2300148
+    second: halterung werkst__ck vertikal
+  - first:
+      23: 2300150
+    second: halterung werkst__ck temp 01
+  - first:
+      23: 2300152
+    second: halterung werkst__ck temp 04
+  - first:
+      23: 2300154
+    second: halterung werkst__ck temp 03
+  - first:
+      23: 2300156
+    second: lade aufsatzTEMP
+  - first:
+      23: 2300158
+    second: lade frontblende
+  - first:
+      23: 2300160
+    second: tschplatte schrauben
+  - first:
+      23: 2300162
+    second: platte stromquelle
+  - first:
+      23: 2300164
+    second: schiene sichtschutz 02
+  - first:
+      23: 2300166
+    second: schiene sichtschutz 01
+  - first:
+      23: 2300168
+    second: tischplatte rahmen
+  - first:
+      23: 2300170
+    second: "entl\xFCftung grau"
+  - first:
+      23: 2300172
+    second: "entl\xFCftung rot"
+  - first:
+      23: 2300174
+    second: "halterung werkst\xFCck temp 01"
+  - first:
+      23: 2300176
+    second: "halterung werkst\xFCck temp 02"
+  - first:
+      23: 2300178
+    second: "halterung werkst\xFCck temp 03"
+  - first:
+      23: 2300180
+    second: "halterung werkst\xFCck temp 04"
+  - first:
+      23: 2300182
+    second: "halterung werkst\xFCck vertikal"
+  - first:
+      23: 2300184
+    second: "halterung werkst\xFCck vertikal 02"
+  - first:
+      23: 2300186
+    second: "st\xE4nder 01"
+  - first:
+      23: 2300188
+    second: "t\xFCr 01"
+  - first:
+      33: 3300000
+    second: system kastl 01
+  - first:
+      33: 3300002
+    second: kastl blech 03
+  - first:
+      33: 3300004
+    second: blech kastl 02
+  - first:
+      33: 3300006
+    second: blech kastl 01
+  - first:
+      33: 3300008
+    second: system 25
+  - first:
+      33: 3300010
+    second: system 24
+  - first:
+      33: 3300012
+    second: system 23
+  - first:
+      33: 3300014
+    second: system 22
+  - first:
+      33: 3300016
+    second: system 21
+  - first:
+      33: 3300018
+    second: system 20
+  - first:
+      33: 3300020
+    second: glas
+  - first:
+      33: 3300022
+    second: schweissrost rahmen 8
+  - first:
+      33: 3300024
+    second: schweissrost rahmen 1
+  - first:
+      33: 3300026
+    second: entl__ftung rot
+  - first:
+      33: 3300028
+    second: rahmen
+  - first:
+      33: 3300030
+    second: schweissrost t-stahl 10
+  - first:
+      33: 3300032
+    second: schweissrost rahmen 2
+  - first:
+      33: 3300034
+    second: schweissrost rahmen 7
+  - first:
+      33: 3300036
+    second: tischplatte
+  - first:
+      33: 3300038
+    second: schweissrost t-stahl 5
+  - first:
+      33: 3300040
+    second: schweissrost t-stahl 6
+  - first:
+      33: 3300042
+    second: schweissrost t-stahl 7
+  - first:
+      33: 3300044
+    second: schweissrost rahmen 3
+  - first:
+      33: 3300046
+    second: schweissrost rahmen 4
+  - first:
+      33: 3300048
+    second: system 02
+  - first:
+      33: 3300050
+    second: blech 10
+  - first:
+      33: 3300052
+    second: blech 09
+  - first:
+      33: 3300054
+    second: blech kastl 06
+  - first:
+      33: 3300056
+    second: blech kastl 05
+  - first:
+      33: 3300058
+    second: blech kastl 04
+  - first:
+      33: 3300060
+    second: system kastl 03
+  - first:
+      33: 3300062
+    second: system kastl 02
+  - first:
+      33: 3300064
+    second: halterung werkst__ck vertikal 02
+  - first:
+      33: 3300066
+    second: schweissrost t-stahl 3
+  - first:
+      33: 3300068
+    second: blech 05
+  - first:
+      33: 3300070
+    second: system 19
+  - first:
+      33: 3300072
+    second: winkeleisen 01
+  - first:
+      33: 3300074
+    second: system 18
+  - first:
+      33: 3300076
+    second: t__r 01
+  - first:
+      33: 3300078
+    second: blech lade 01
+  - first:
+      33: 3300080
+    second: system 17
+  - first:
+      33: 3300082
+    second: system 16
+  - first:
+      33: 3300084
+    second: system 15
+  - first:
+      33: 3300086
+    second: system 14
+  - first:
+      33: 3300088
+    second: blech 02
+  - first:
+      33: 3300090
+    second: schweissrost t-stahl 4
+  - first:
+      33: 3300092
+    second: panel kastl 01
+  - first:
+      33: 3300094
+    second: st__nder 01
+  - first:
+      33: 3300096
+    second: schweissrost rahmen 6
+  - first:
+      33: 3300098
+    second: schweissrost t-stahl 2
+  - first:
+      33: 3300100
+    second: system 03
+  - first:
+      33: 3300102
+    second: blech 01
+  - first:
+      33: 3300104
+    second: verkleidung 01
+  - first:
+      33: 3300106
+    second: system 13
+  - first:
+      33: 3300108
+    second: system 12
+  - first:
+      33: 3300110
+    second: system 11
+  - first:
+      33: 3300112
+    second: system 10
+  - first:
+      33: 3300114
+    second: sauger
+  - first:
+      33: 3300116
+    second: system 09
+  - first:
+      33: 3300118
+    second: system 08
+  - first:
+      33: 3300120
+    second: system 07
+  - first:
+      33: 3300122
+    second: system 06
+  - first:
+      33: 3300124
+    second: system 05
+  - first:
+      33: 3300126
+    second: system 04
+  - first:
+      33: 3300128
+    second: system 01
+  - first:
+      33: 3300130
+    second: lade
+  - first:
+      33: 3300132
+    second: blech kastl 07
+  - first:
+      33: 3300134
+    second: PlatteKupfer
+  - first:
+      33: 3300136
+    second: schweissrost rahmen 5
+  - first:
+      33: 3300138
+    second: schweissrost t-stahl 8
+  - first:
+      33: 3300140
+    second: schweissrost t-stahl 9
+  - first:
+      33: 3300142
+    second: schweissrost t-stahl 1
+  - first:
+      33: 3300144
+    second: entl__ftung grau
+  - first:
+      33: 3300146
+    second: halterung werkst__ck temp 02
+  - first:
+      33: 3300148
+    second: halterung werkst__ck vertikal
+  - first:
+      33: 3300150
+    second: halterung werkst__ck temp 01
+  - first:
+      33: 3300152
+    second: halterung werkst__ck temp 04
+  - first:
+      33: 3300154
+    second: halterung werkst__ck temp 03
+  - first:
+      33: 3300156
+    second: lade aufsatzTEMP
+  - first:
+      33: 3300158
+    second: lade frontblende
+  - first:
+      33: 3300160
+    second: tschplatte schrauben
+  - first:
+      33: 3300162
+    second: platte stromquelle
+  - first:
+      33: 3300164
+    second: schiene sichtschutz 02
+  - first:
+      33: 3300166
+    second: schiene sichtschutz 01
+  - first:
+      33: 3300168
+    second: tischplatte rahmen
+  - first:
+      33: 3300170
+    second: "entl\xFCftung grau"
+  - first:
+      33: 3300172
+    second: "entl\xFCftung rot"
+  - first:
+      33: 3300174
+    second: "halterung werkst\xFCck temp 01"
+  - first:
+      33: 3300176
+    second: "halterung werkst\xFCck temp 02"
+  - first:
+      33: 3300178
+    second: "halterung werkst\xFCck temp 03"
+  - first:
+      33: 3300180
+    second: "halterung werkst\xFCck temp 04"
+  - first:
+      33: 3300182
+    second: "halterung werkst\xFCck vertikal"
+  - first:
+      33: 3300184
+    second: "halterung werkst\xFCck vertikal 02"
+  - first:
+      33: 3300186
+    second: "st\xE4nder 01"
+  - first:
+      33: 3300188
+    second: "t\xFCr 01"
+  - first:
+      43: 4300000
+    second: PlatteKupfer
+  - first:
+      43: 4300002
+    second: blech kastl 07
+  - first:
+      43: 4300004
+    second: tischplatte rahmen
+  - first:
+      43: 4300006
+    second: schiene sichtschutz 01
+  - first:
+      43: 4300008
+    second: schiene sichtschutz 02
+  - first:
+      43: 4300010
+    second: lade
+  - first:
+      43: 4300012
+    second: system 01
+  - first:
+      43: 4300014
+    second: system 02
+  - first:
+      43: 4300016
+    second: system 03
+  - first:
+      43: 4300018
+    second: system 04
+  - first:
+      43: 4300020
+    second: system 05
+  - first:
+      43: 4300022
+    second: system 06
+  - first:
+      43: 4300024
+    second: system 07
+  - first:
+      43: 4300026
+    second: system 08
+  - first:
+      43: 4300028
+    second: system 09
+  - first:
+      43: 4300030
+    second: sauger
+  - first:
+      43: 4300032
+    second: platte stromquelle
+  - first:
+      43: 4300034
+    second: system 10
+  - first:
+      43: 4300036
+    second: system 11
+  - first:
+      43: 4300038
+    second: system 12
+  - first:
+      43: 4300040
+    second: system 13
+  - first:
+      43: 4300042
+    second: verkleidung 01
+  - first:
+      43: 4300044
+    second: blech 01
+  - first:
+      43: 4300046
+    second: blech 02
+  - first:
+      43: 4300048
+    second: system 14
+  - first:
+      43: 4300050
+    second: system 15
+  - first:
+      43: 4300052
+    second: system 16
+  - first:
+      43: 4300054
+    second: system 17
+  - first:
+      43: 4300056
+    second: blech lade 01
+  - first:
+      43: 4300058
+    second: t__r 01
+  - first:
+      43: 4300060
+    second: system 18
+  - first:
+      43: 4300062
+    second: winkeleisen 01
+  - first:
+      43: 4300064
+    second: system 19
+  - first:
+      43: 4300066
+    second: blech 05
+  - first:
+      43: 4300068
+    second: system 20
+  - first:
+      43: 4300070
+    second: system 21
+  - first:
+      43: 4300072
+    second: system 22
+  - first:
+      43: 4300074
+    second: system 23
+  - first:
+      43: 4300076
+    second: system 24
+  - first:
+      43: 4300078
+    second: system 25
+  - first:
+      43: 4300080
+    second: blech kastl 01
+  - first:
+      43: 4300082
+    second: blech kastl 02
+  - first:
+      43: 4300084
+    second: kastl blech 03
+  - first:
+      43: 4300086
+    second: system kastl 01
+  - first:
+      43: 4300088
+    second: system kastl 02
+  - first:
+      43: 4300090
+    second: system kastl 03
+  - first:
+      43: 4300092
+    second: blech kastl 04
+  - first:
+      43: 4300094
+    second: blech kastl 05
+  - first:
+      43: 4300096
+    second: blech kastl 06
+  - first:
+      43: 4300098
+    second: blech 09
+  - first:
+      43: 4300100
+    second: blech 10
+  - first:
+      43: 4300102
+    second: st__nder 01
+  - first:
+      43: 4300104
+    second: panel kastl 01
+  - first:
+      43: 4300106
+    second: halterung werkst__ck vertikal 02
+  - first:
+      43: 4300108
+    second: tschplatte schrauben
+  - first:
+      43: 4300110
+    second: lade frontblende
+  - first:
+      43: 4300112
+    second: lade aufsatzTEMP
+  - first:
+      43: 4300114
+    second: tischplatte
+  - first:
+      43: 4300116
+    second: halterung werkst__ck temp 03
+  - first:
+      43: 4300118
+    second: halterung werkst__ck temp 04
+  - first:
+      43: 4300120
+    second: halterung werkst__ck temp 01
+  - first:
+      43: 4300122
+    second: halterung werkst__ck vertikal
+  - first:
+      43: 4300124
+    second: halterung werkst__ck temp 02
+  - first:
+      43: 4300126
+    second: entl__ftung rot
+  - first:
+      43: 4300128
+    second: entl__ftung grau
+  - first:
+      43: 4300130
+    second: schweissrost t-stahl 1
+  - first:
+      43: 4300132
+    second: schweissrost t-stahl 9
+  - first:
+      43: 4300134
+    second: schweissrost t-stahl 8
+  - first:
+      43: 4300136
+    second: schweissrost rahmen 5
+  - first:
+      43: 4300138
+    second: schweissrost t-stahl 7
+  - first:
+      43: 4300140
+    second: schweissrost t-stahl 6
+  - first:
+      43: 4300142
+    second: schweissrost t-stahl 5
+  - first:
+      43: 4300144
+    second: schweissrost t-stahl 4
+  - first:
+      43: 4300146
+    second: schweissrost t-stahl 3
+  - first:
+      43: 4300148
+    second: schweissrost t-stahl 2
+  - first:
+      43: 4300150
+    second: schweissrost rahmen 6
+  - first:
+      43: 4300152
+    second: schweissrost rahmen 1
+  - first:
+      43: 4300154
+    second: schweissrost rahmen 8
+  - first:
+      43: 4300156
+    second: schweissrost rahmen 4
+  - first:
+      43: 4300158
+    second: schweissrost t-stahl 10
+  - first:
+      43: 4300160
+    second: schweissrost rahmen 2
+  - first:
+      43: 4300162
+    second: schweissrost rahmen 7
+  - first:
+      43: 4300164
+    second: schweissrost rahmen 3
+  - first:
+      43: 4300166
+    second: glas
+  - first:
+      43: 4300168
+    second: rahmen
+  - first:
+      43: 4300170
+    second: "t\xFCr 01"
+  - first:
+      43: 4300172
+    second: "st\xE4nder 01"
+  - first:
+      43: 4300174
+    second: "halterung werkst\xFCck vertikal 02"
+  - first:
+      43: 4300176
+    second: "halterung werkst\xFCck temp 03"
+  - first:
+      43: 4300178
+    second: "halterung werkst\xFCck temp 04"
+  - first:
+      43: 4300180
+    second: "halterung werkst\xFCck temp 01"
+  - first:
+      43: 4300182
+    second: "halterung werkst\xFCck vertikal"
+  - first:
+      43: 4300184
+    second: "halterung werkst\xFCck temp 02"
+  - first:
+      43: 4300186
+    second: "entl\xFCftung rot"
+  - first:
+      43: 4300188
+    second: "entl\xFCftung grau"
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 827319a59e28cdf4eb29bb7068f88256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-Stahl
+    second: {fileID: 2100000, guid: a8b1cae7880227e48b0b66b57d1e1808, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glas_dunkel
+    second: {fileID: 2100000, guid: 8bd936a6859649a44b8502f3ece7c4d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kupfer
+    second: {fileID: 2100000, guid: d58241ec8d561b44385abbb3395c0e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metall_dunkel
+    second: {fileID: 2100000, guid: d1010e86c5e0bc640a7aac655ffcde17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metall_hell
+    second: {fileID: 2100000, guid: 05bfdda4a075046bbbc29eb1f461bfb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rahme ecke
+    second: {fileID: 2100000, guid: 60bb8b8ff3ebef14d831b1704330e781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rot
+    second: {fileID: 2100000, guid: 1d4fda54aa259ea468e4b067cb1400a5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

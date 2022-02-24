@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: cf15b6edc066e86448cffc8017dcf3fa
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Abdeckung unten
+    second: {fileID: 2100000, guid: c08acafb931deda4d9703ab0d823e0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 1 Rotation H
+    second: {fileID: 2100000, guid: 50f8666cb98ad8e43b5b026a6a3fc86b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 1 Rotation H.1
+    second: {fileID: 2100000, guid: 17172e356500d954881bfb0ab6c2b50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 2 Rotation B
+    second: {fileID: 2100000, guid: dc4344f19b8324e48906fe3ac520b865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 2 Rotation B.1
+    second: {fileID: 2100000, guid: a7652794b9c75e644bdfd25091713f12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 3 Rotation H
+    second: {fileID: 2100000, guid: 524855aad2e07834a9d0273a73144651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 4 Rotation B
+    second: {fileID: 2100000, guid: 0267ce9b289d0d84c941718c83aa3e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 4 Rotation B.1
+    second: {fileID: 2100000, guid: 490694a5e5c9863438b3c758d901c327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 5 Rotation H
+    second: {fileID: 2100000, guid: 8e14cdcc44b49cb41989bea3d97efb18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 6 Rotation B
+    second: {fileID: 2100000, guid: 5c286f4002b5ae34eb15651918d6e6d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm 6 Rotation B.1
+    second: {fileID: 2100000, guid: bb5751e8998c8d148b6255b11bdb2cf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blech hell.1
+    second: {fileID: 2100000, guid: 61e516daef4dd1941b637b230ddebdb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blech.1
+    second: {fileID: 2100000, guid: c353aef27d3a7a14092660b14fa2a8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boden Absperrstreifen
+    second: {fileID: 2100000, guid: 8ca2357bf2948e14d85a4aff07316e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boden.1
+    second: {fileID: 2100000, guid: f426e798a8f4c3e49847b859ec072e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Connection-Cubes
+    second: {fileID: 2100000, guid: c0d15850040886544b520a47b3b56d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper_Plate
+    second: {fileID: 2100000, guid: d203df37760e42641a59dc587a159aa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corpus
+    second: {fileID: 2100000, guid: 63c15488e9b6a1b4db9cbfd0c58822c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decke
+    second: {fileID: 2100000, guid: 3013574e452816448839cf3a8e0e51c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deckenlueftung Rahmen
+    second: {fileID: 2100000, guid: 8eeeda9cd4bd5a84686234900a48d8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deckenlueftung Rost
+    second: {fileID: 2100000, guid: d7ad7226a93e46d439244fb91da0e4b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gitter
+    second: {fileID: 2100000, guid: 4cb727bfe89534c40adc5cd2048020b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Griff
+    second: {fileID: 2100000, guid: 522b6138c3049fd43bf9f0b454003206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gummi rund
+    second: {fileID: 2100000, guid: b9f7c96102107334bbec4ce06ceb56f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halterung Rohr-Spalt
+    second: {fileID: 2100000, guid: 67b9fd7999517664ba5c2369bcc88529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kasten rot
+    second: {fileID: 2100000, guid: 4d0dabeb8e87f3146bcc398bbda907e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Klemme
+    second: {fileID: 2100000, guid: bfbb5a3cb7923a24cae5cb9f23380bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Klemmgriff
+    second: {fileID: 2100000, guid: c6eef13efcad5fc45979196c0e4ff577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Klemmschelle
+    second: {fileID: 2100000, guid: 14862313cddc4d94b88a48ee76a742dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Korpus
+    second: {fileID: 2100000, guid: a0971a08304f57c4cbe22eff35414503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lack hell.1
+    second: {fileID: 2100000, guid: 5c4683b44ea7fed4a8ec03aca13a9de0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lack schwarz.1
+    second: {fileID: 2100000, guid: d18f8c65ad4b2154490b752d27b2f6df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Leuchtstoffr\xF6hre"
+    second: {fileID: 2100000, guid: 3bb180b03707b8240954968bd028cd12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall Estahl
+    second: {fileID: 2100000, guid: 821c0ad7689f04f4f9c0e30b7c574968, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall Stahl
+    second: {fileID: 2100000, guid: 95fb855913951e04ca4ec72d76cbcda5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall dunkel.1
+    second: {fileID: 2100000, guid: 7f7926a23adba9b4fabeb8a7fb1b507b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall edelstahl.1
+    second: {fileID: 2100000, guid: bdb828fe124dd4249a07c2519852877e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall hell
+    second: {fileID: 2100000, guid: 2aa2d0e04675961488b26149ef94ed23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall hell.1
+    second: {fileID: 2100000, guid: 13d033e9bfd9d56429513f2958bb68c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall schwarz.1
+    second: {fileID: 2100000, guid: e618c28db3eef5948b0a214649048b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik blau
+    second: {fileID: 2100000, guid: 198e300a571553743a977df7fa9cf331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik schwarz.1
+    second: {fileID: 2100000, guid: 70ce0555dec64d744aa178697349ac52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik schwarz.2
+    second: {fileID: 2100000, guid: 2d2c91083c7c7014e8e80a8cba539908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Profile.1
+    second: {fileID: 2100000, guid: ea2a40b971817084a8cc505953b89786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Profile.2
+    second: {fileID: 2100000, guid: af522ee10d8c9b946a530c4091eda7ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Profile.3
+    second: {fileID: 2100000, guid: 65050389f4ec3c040bfe810833f825c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Protective-Glas.1
+    second: {fileID: 2100000, guid: c0514bd2d46f6ac4cab8298153f7cb1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reflektor.1
+    second: {fileID: 2100000, guid: 0518f2c73653417478979c349e396676, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rohr
+    second: {fileID: 2100000, guid: 31c97929089d0f24aa8f67a1ef0afebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rohr.1
+    second: {fileID: 2100000, guid: db7a45a3899d44d4fafe38bd0c2f034e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schienen
+    second: {fileID: 2100000, guid: 7e5c53e2a05af414d9d4a8190ec8e7e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schienen Verbindung
+    second: {fileID: 2100000, guid: 685681fa0daa6cd469756a3956147f1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schlauch
+    second: {fileID: 2100000, guid: 2757ca4d192709343bbfea3c1b5c72e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schnalle chrom
+    second: {fileID: 2100000, guid: 6ada2e22a77f5684bab1ceac5b2963ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schraube
+    second: {fileID: 2100000, guid: 793512ef72ff16948998f5928bde8688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schrauben
+    second: {fileID: 2100000, guid: 549b0f16d32636047b9f256e7863ca17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schrauben.1
+    second: {fileID: 2100000, guid: ee30d39d70c3a5d409d551f6e91920ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vorhang Aufhaengerr 1
+    second: {fileID: 2100000, guid: 9e2cca388089b0a4bab257ea2f583851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vorhang Plastik
+    second: {fileID: 2100000, guid: 9643c147129689c4d888490f2efcfaa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ein_profil
+    second: {fileID: 2100000, guid: c8f2ad36027c39747ace120fc217110b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metall hell
+    second: {fileID: 2100000, guid: 2aa2d0e04675961488b26149ef94ed23, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 90
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

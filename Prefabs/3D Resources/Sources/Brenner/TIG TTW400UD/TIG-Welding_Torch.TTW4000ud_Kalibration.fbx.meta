@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 6ee2e867da7c88d4e96afedcb88ecff5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Brennerkappe
+    100002: Brennerkoerper
+    100004: Gasduese_Modell
+    100006: Gasduese_Modell_2
+    100008: Griffschale
+    100010: Jobmaster
+    100012: Jobmaster_Abdeckung
+    100014: Jobmaster_Display
+    100016: Jobmaster_Plexiglas
+    100018: Jobmaster_Taster_links
+    100020: Jobmaster_Taster_rechts
+    100022: Jonmaster_Panel
+    100024: Polhemus_Distance
+    100026: Polhemus_Microsensor
+    100028: Schlauchpaket
+    100030: Schlauchpaket_Manschette
+    100032: Schlauchpaket_Schlauch
+    100034: //RootNode
+    100036: Griffschale_Schrauben
+    100038: Brennerkoerper_Ring
+    100040: Brennerkopf
+    100042: Schleauchpaket_Schlauch
+    100044: Gasduese_Spitze_Modell
+    100046: Gasduese
+    100048: Gasduese_Netz
+    100050: TIG_Elektrode_Schaft
+    100052: TIG_Elektrode_Spitze
+    400000: Brennerkappe
+    400002: Brennerkoerper
+    400004: Gasduese_Modell
+    400006: Gasduese_Modell_2
+    400008: Griffschale
+    400010: Jobmaster
+    400012: Jobmaster_Abdeckung
+    400014: Jobmaster_Display
+    400016: Jobmaster_Plexiglas
+    400018: Jobmaster_Taster_links
+    400020: Jobmaster_Taster_rechts
+    400022: Jonmaster_Panel
+    400024: Polhemus_Distance
+    400026: Polhemus_Microsensor
+    400028: Schlauchpaket
+    400030: Schlauchpaket_Manschette
+    400032: Schlauchpaket_Schlauch
+    400034: //RootNode
+    400036: Griffschale_Schrauben
+    400038: Brennerkoerper_Ring
+    400040: Brennerkopf
+    400042: Schleauchpaket_Schlauch
+    400044: Gasduese_Spitze_Modell
+    400046: Gasduese
+    400048: Gasduese_Netz
+    400050: TIG_Elektrode_Schaft
+    400052: TIG_Elektrode_Spitze
+    2300000: Brennerkappe
+    2300002: Brennerkoerper
+    2300004: Gasduese_Modell_2
+    2300006: Griffschale
+    2300008: Jobmaster_Abdeckung
+    2300010: Jobmaster_Display
+    2300012: Jobmaster_Plexiglas
+    2300014: Jobmaster_Taster_links
+    2300016: Jobmaster_Taster_rechts
+    2300018: Jonmaster_Panel
+    2300020: Polhemus_Distance
+    2300022: Polhemus_Microsensor
+    2300024: Schlauchpaket_Manschette
+    2300026: Schlauchpaket_Schlauch
+    2300028: Griffschale_Schrauben
+    2300030: Brennerkoerper_Ring
+    2300032: Brennerkopf
+    2300034: Schleauchpaket_Schlauch
+    2300036: Gasduese_Spitze_Modell
+    2300038: Gasduese
+    2300040: Gasduese_Netz
+    2300042: TIG_Elektrode_Schaft
+    2300044: TIG_Elektrode_Spitze
+    3300000: Brennerkappe
+    3300002: Brennerkoerper
+    3300004: Gasduese_Modell_2
+    3300006: Griffschale
+    3300008: Jobmaster_Abdeckung
+    3300010: Jobmaster_Display
+    3300012: Jobmaster_Plexiglas
+    3300014: Jobmaster_Taster_links
+    3300016: Jobmaster_Taster_rechts
+    3300018: Jonmaster_Panel
+    3300020: Polhemus_Distance
+    3300022: Polhemus_Microsensor
+    3300024: Schlauchpaket_Manschette
+    3300026: Schlauchpaket_Schlauch
+    3300028: Griffschale_Schrauben
+    3300030: Brennerkoerper_Ring
+    3300032: Brennerkopf
+    3300034: Schleauchpaket_Schlauch
+    3300036: Gasduese_Spitze_Modell
+    3300038: Gasduese
+    3300040: Gasduese_Netz
+    3300042: TIG_Elektrode_Schaft
+    3300044: TIG_Elektrode_Spitze
+    4300000: Gasduese_Modell_2
+    4300002: Polhemus_Microsensor
+    4300004: Polhemus_Distance
+    4300006: Brennerkoerper
+    4300008: Brennerkappe
+    4300010: Jonmaster_Panel
+    4300012: Jobmaster_Taster_links
+    4300014: Jobmaster_Taster_rechts
+    4300016: Jobmaster_Plexiglas
+    4300018: Jobmaster_Abdeckung
+    4300020: Jobmaster_Display
+    4300022: Griffschale
+    4300024: Schlauchpaket_Manschette
+    4300026: Schlauchpaket_Schlauch
+    4300028: Griffschale_Schrauben
+    4300030: Brennerkopf
+    4300032: Brennerkoerper_Ring
+    4300034: Schleauchpaket_Schlauch
+    4300036: Gasduese_Spitze_Modell
+    4300038: TIG_Elektrode_Spitze
+    4300040: TIG_Elektrode_Schaft
+    4300042: Gasduese
+    4300044: Gasduese_Netz
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display
+    second: {fileID: 2100000, guid: 04fff837f5118be4b8c9fb64bd89b131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gummi schwarz matt
+    second: {fileID: 2100000, guid: 230ba3c7e69b74d1199983c82cccd48e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keramik.rosa.Mat
+    second: {fileID: 2100000, guid: 2b0271519ebd37543be8dda85022acc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 295faec63f6b44ef8a0cfe1b9de8e03c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik.rot.rauh.Mat
+    second: {fileID: 2100000, guid: c3b58fceea3a0c54d9b5b23036545c8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik.schwarz.rauh.Mat
+    second: {fileID: 2100000, guid: 771d4f6d2844a1d4aa949a9093708603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plexiglas
+    second: {fileID: 2100000, guid: 20b9c7fdb6816d04ba037aef90da3f97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stoff schwarz
+    second: {fileID: 2100000, guid: 5ff5aa23ca292444c9ac4e689c97f881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TIG-Elektrode.Mat
+    second: {fileID: 2100000, guid: f0548815fabf39848bb373d899d8fe3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TIG.Zusatzwerkstoff.Mat
+    second: {fileID: 2100000, guid: e2ac90a550527c54dafa7baabf3da807, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

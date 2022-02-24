@@ -1,0 +1,220 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                },
+                "Subsurface Scattering Parameters": {
+                    "sssColor": [
+                        0.7009999752044678,
+                        0.3009999990463257,
+                        0.3050000071525574
+                    ],
+                    "sssEnabled": true,
+                    "sssScale": 0.5,
+                    "sssType": 1
+                }
+            },
+            "shader": "pbr-metal-rough",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Abdeckung unten": {
+            "shader": "Main shader"
+        },
+        "Arm 1 Rotation H": {
+            "shader": "Main shader"
+        },
+        "Arm 1 Rotation H.1": {
+            "shader": "Main shader"
+        },
+        "Arm 2 Rotation B": {
+            "shader": "Main shader"
+        },
+        "Arm 2 Rotation B.1": {
+            "shader": "Main shader"
+        },
+        "Arm 3 Rotation H": {
+            "shader": "Main shader"
+        },
+        "Arm 4 Rotation B": {
+            "shader": "Main shader"
+        },
+        "Arm 4 Rotation B.1": {
+            "shader": "Main shader"
+        },
+        "Arm 5 Rotation H": {
+            "shader": "Main shader"
+        },
+        "Arm 6 Rotation B": {
+            "shader": "Main shader"
+        },
+        "Arm 6 Rotation B.1": {
+            "shader": "Main shader"
+        },
+        "Blech hell.1": {
+            "shader": "Main shader"
+        },
+        "Blech.1": {
+            "shader": "Main shader"
+        },
+        "Boden Absperrstreifen": {
+            "shader": "Main shader"
+        },
+        "Boden.1": {
+            "shader": "Main shader"
+        },
+        "Connection-Cubes": {
+            "shader": "Main shader"
+        },
+        "Copper_Plate": {
+            "shader": "Main shader"
+        },
+        "Corpus": {
+            "shader": "Main shader"
+        },
+        "Decke": {
+            "shader": "Main shader"
+        },
+        "Deckenlueftung Rahmen": {
+            "shader": "Main shader"
+        },
+        "Deckenlueftung Rost": {
+            "shader": "Main shader"
+        },
+        "Gitter": {
+            "shader": "Main shader"
+        },
+        "Griff": {
+            "shader": "Main shader"
+        },
+        "Gummi rund": {
+            "shader": "Main shader"
+        },
+        "Halterung Rohr-Spalt": {
+            "shader": "Main shader"
+        },
+        "Kasten rot": {
+            "shader": "Main shader"
+        },
+        "Klemme": {
+            "shader": "Main shader"
+        },
+        "Klemmgriff": {
+            "shader": "Main shader"
+        },
+        "Klemmschelle": {
+            "shader": "Main shader"
+        },
+        "Korpus": {
+            "shader": "Main shader"
+        },
+        "Lack hell.1": {
+            "shader": "Main shader"
+        },
+        "Lack schwarz.1": {
+            "shader": "Main shader"
+        },
+        "Leuchtstoffröhre": {
+            "shader": "Main shader"
+        },
+        "Metall Estahl": {
+            "shader": "Main shader"
+        },
+        "Metall Stahl": {
+            "shader": "Main shader"
+        },
+        "Metall dunkel.1": {
+            "shader": "Main shader"
+        },
+        "Metall edelstahl.1": {
+            "shader": "Main shader"
+        },
+        "Metall hell": {
+            "shader": "Main shader"
+        },
+        "Metall hell.1": {
+            "shader": "Main shader"
+        },
+        "Metall schwarz.1": {
+            "shader": "Main shader"
+        },
+        "Plastik blau": {
+            "shader": "Main shader"
+        },
+        "Plastik schwarz.1": {
+            "shader": "Main shader"
+        },
+        "Plastik schwarz.2": {
+            "shader": "Main shader"
+        },
+        "Profile.1": {
+            "shader": "Main shader"
+        },
+        "Profile.2": {
+            "shader": "Main shader"
+        },
+        "Profile.3": {
+            "shader": "Main shader"
+        },
+        "Protective-Glas.1": {
+            "shader": "Main shader"
+        },
+        "Reflektor.1": {
+            "shader": "Main shader"
+        },
+        "Rohr": {
+            "shader": "Main shader"
+        },
+        "Rohr.1": {
+            "shader": "Main shader"
+        },
+        "Schienen": {
+            "shader": "Main shader"
+        },
+        "Schienen Verbindung": {
+            "shader": "Main shader"
+        },
+        "Schlauch": {
+            "shader": "Main shader"
+        },
+        "Schnalle chrom": {
+            "shader": "Main shader"
+        },
+        "Schraube": {
+            "shader": "Main shader"
+        },
+        "Schrauben": {
+            "shader": "Main shader"
+        },
+        "Schrauben.1": {
+            "shader": "Main shader"
+        },
+        "Vorhang Aufhaengerr 1": {
+            "shader": "Main shader"
+        },
+        "Vorhang Plastik": {
+            "shader": "Main shader"
+        },
+        "ein_profil": {
+            "shader": "Main shader"
+        },
+        "metall hell": {
+            "shader": "Main shader"
+        }
+    }
+}

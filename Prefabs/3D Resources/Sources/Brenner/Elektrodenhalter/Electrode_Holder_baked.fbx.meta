@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 9a29d0893b531254d9d2907c53976c6c
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Electrode_Holder_Cap
+  - first:
+      1: 100004
+    second: Electrode_Holder_ElectrodeFixation
+  - first:
+      1: 100006
+    second: Electrode_Holder_Grip_lowerPart
+  - first:
+      1: 100008
+    second: Electrode_Holder_Grip_upper_Part
+  - first:
+      1: 100010
+    second: Electrode_Holder_Imbus
+  - first:
+      1: 100012
+    second: Electrode_Holder_Lever
+  - first:
+      1: 100014
+    second: Electrode_Holder_Screw
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Electrode_Holder_Cap
+  - first:
+      4: 400004
+    second: Electrode_Holder_ElectrodeFixation
+  - first:
+      4: 400006
+    second: Electrode_Holder_Grip_lowerPart
+  - first:
+      4: 400008
+    second: Electrode_Holder_Grip_upper_Part
+  - first:
+      4: 400010
+    second: Electrode_Holder_Imbus
+  - first:
+      4: 400012
+    second: Electrode_Holder_Lever
+  - first:
+      4: 400014
+    second: Electrode_Holder_Screw
+  - first:
+      23: 2300000
+    second: Electrode_Holder_Cap
+  - first:
+      23: 2300002
+    second: Electrode_Holder_ElectrodeFixation
+  - first:
+      23: 2300004
+    second: Electrode_Holder_Grip_lowerPart
+  - first:
+      23: 2300006
+    second: Electrode_Holder_Grip_upper_Part
+  - first:
+      23: 2300008
+    second: Electrode_Holder_Imbus
+  - first:
+      23: 2300010
+    second: Electrode_Holder_Lever
+  - first:
+      23: 2300012
+    second: Electrode_Holder_Screw
+  - first:
+      33: 3300000
+    second: Electrode_Holder_Cap
+  - first:
+      33: 3300002
+    second: Electrode_Holder_ElectrodeFixation
+  - first:
+      33: 3300004
+    second: Electrode_Holder_Grip_lowerPart
+  - first:
+      33: 3300006
+    second: Electrode_Holder_Grip_upper_Part
+  - first:
+      33: 3300008
+    second: Electrode_Holder_Imbus
+  - first:
+      33: 3300010
+    second: Electrode_Holder_Lever
+  - first:
+      33: 3300012
+    second: Electrode_Holder_Screw
+  - first:
+      43: 4300000
+    second: Electrode_Holder_Lever
+  - first:
+      43: 4300002
+    second: Electrode_Holder_Screw
+  - first:
+      43: 4300004
+    second: Electrode_Holder_Grip_upper_Part
+  - first:
+      43: 4300006
+    second: Electrode_Holder_Grip_lowerPart
+  - first:
+      43: 4300008
+    second: Electrode_Holder_Imbus
+  - first:
+      43: 4300010
+    second: Electrode_Holder_Cap
+  - first:
+      43: 4300012
+    second: Electrode_Holder_ElectrodeFixation
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrode_Holder_Cap.2
+    second: {fileID: 2100000, guid: 5900f9cff181d4042ac821babe2a0a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrode_Holder_ElectrodeFixation.2
+    second: {fileID: 2100000, guid: e9d65f0db8d18de46b423e6d71c9edfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrode_Holder_Grip_lowerPart.2
+    second: {fileID: 2100000, guid: 647c965a77bb7e94088dff262eb08532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrode_Holder_Grip_upper Part.2
+    second: {fileID: 2100000, guid: 1d1a4d1170abbf44c83a7d69dbd92746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrode_Holder_Imbus.2
+    second: {fileID: 2100000, guid: b3abf4320e12bc149aab8ca2c4c90526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrode_Holder_Lever.2
+    second: {fileID: 2100000, guid: afe54fd2c06afb145a105da8802db4e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrode_Holder_Screw.2
+    second: {fileID: 2100000, guid: f1c87304179d41d4f8d1b377df82fbbe, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 1
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

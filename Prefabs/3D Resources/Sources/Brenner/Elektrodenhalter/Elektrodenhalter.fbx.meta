@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 67c0cb9b622beed4594602a163fe9474
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: __8882__Z0121739
+    100002: __36509__Z0121722
+    100004: __14698__Z0060581_2
+    100006: __14698__Z0060581
+    100008: __8882__Z0121739_Kappe_60mm
+    100010: //RootNode
+    100012: __2853__Z0121728_Ring
+    100014: __4924__Z0122186_Rohr_Polhemus
+    100016: __7268__Z0121734_Kappe_oben
+    100018: __2853__Z0121728_Griffrohr
+    100020: __36509__Z0121722_Hebel
+    100022: __36509__Z0121722_Kappe_hinten
+    100024: __36426__Z0064691_Ring
+    100026: __36426__Z0064691_Kabelf__hrung
+    100028: "__36426__Z0064691_Kabelf\xFChrung"
+    400000: __8882__Z0121739
+    400002: __36509__Z0121722
+    400004: __14698__Z0060581_2
+    400006: __14698__Z0060581
+    400008: __8882__Z0121739_Kappe_60mm
+    400010: //RootNode
+    400012: __2853__Z0121728_Ring
+    400014: __4924__Z0122186_Rohr_Polhemus
+    400016: __7268__Z0121734_Kappe_oben
+    400018: __2853__Z0121728_Griffrohr
+    400020: __36509__Z0121722_Hebel
+    400022: __36509__Z0121722_Kappe_hinten
+    400024: __36426__Z0064691_Ring
+    400026: __36426__Z0064691_Kabelf__hrung
+    400028: "__36426__Z0064691_Kabelf\xFChrung"
+    2300000: __8882__Z0121739
+    2300002: __36509__Z0121722
+    2300004: __14698__Z0060581_2
+    2300006: __14698__Z0060581
+    2300008: __8882__Z0121739_Kappe_60mm
+    2300010: __2853__Z0121728_Ring
+    2300012: __4924__Z0122186_Rohr_Polhemus
+    2300014: __7268__Z0121734_Kappe_oben
+    2300016: __2853__Z0121728_Griffrohr
+    2300018: __36509__Z0121722_Hebel
+    2300020: __36509__Z0121722_Kappe_hinten
+    2300022: __36426__Z0064691_Ring
+    2300024: __36426__Z0064691_Kabelf__hrung
+    2300026: "__36426__Z0064691_Kabelf\xFChrung"
+    3300000: __8882__Z0121739
+    3300002: __36509__Z0121722
+    3300004: __14698__Z0060581_2
+    3300006: __14698__Z0060581
+    3300008: __8882__Z0121739_Kappe_60mm
+    3300010: __2853__Z0121728_Ring
+    3300012: __4924__Z0122186_Rohr_Polhemus
+    3300014: __7268__Z0121734_Kappe_oben
+    3300016: __2853__Z0121728_Griffrohr
+    3300018: __36509__Z0121722_Hebel
+    3300020: __36509__Z0121722_Kappe_hinten
+    3300022: __36426__Z0064691_Ring
+    3300024: __36426__Z0064691_Kabelf__hrung
+    3300026: "__36426__Z0064691_Kabelf\xFChrung"
+    4300000: __8882__Z0121739_Kappe_60mm
+    4300002: __14698__Z0060581
+    4300004: __14698__Z0060581_2
+    4300006: __36509__Z0121722
+    4300008: __8882__Z0121739
+    4300010: __36426__Z0064691_Kabelf__hrung
+    4300012: __36426__Z0064691_Ring
+    4300014: __36509__Z0121722_Kappe_hinten
+    4300016: __36509__Z0121722_Hebel
+    4300018: __2853__Z0121728_Griffrohr
+    4300020: __7268__Z0121734_Kappe_oben
+    4300022: __4924__Z0122186_Rohr_Polhemus
+    4300024: __2853__Z0121728_Ring
+    4300026: "__36426__Z0064691_Kabelf\xFChrung"
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 295faec63f6b44ef8a0cfe1b9de8e03c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
