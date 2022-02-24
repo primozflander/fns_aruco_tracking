@@ -31,7 +31,7 @@ Follow this steps to set up your working environment.
 3. Download and import OpenCV for Unity Plugin
 ![openCV](Images/importCV.png)
 
-4. Print markers from ```Images/Markers.pdf``` file and fix them to the real objects. 
+4. Print markers from ```Images/Markers.pdf``` file and fix them to the real objects.
 ![demoNotTracked](Images/demoNotTracked.png)
 
 5. Open ```ArucoObjectTrackingButtons``` scene and select your webcam (default 0)
